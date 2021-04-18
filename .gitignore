@@ -277,3 +277,4 @@ web/
 web-src.*
 MediaBrowser.WebDashboard/jellyfin-web
 apiclient/generated
+Jellyfin.Server/Properties/launchSettings.json
